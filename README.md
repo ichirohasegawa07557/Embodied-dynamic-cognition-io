@@ -156,35 +156,6 @@ results/summary_metrics.csv
 
 ![State phase plot](results/state_phase_plot.png)
 
----
-
-## Suggested GitHub Repository Name
-
-```text
-embodied-dynamic-cognition-io
-```
-
-## Suggested Description
-
-```text
-Closed-loop dynamic cognitive input-output system for acting on an external space and updating internal state from its response.
-```
-
----
-
-## Scientific Position
-
-This repository is a small, inspectable prototype of dynamic cognition through closed-loop interaction.
-
-It demonstrates:
-
-```text
-perception
-state estimation
-memory
-action
-feedback
-prediction error
 adaptation
 ```
 
